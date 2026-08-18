@@ -1,5 +1,13 @@
 # JPictureSlot: A Java Swing Component for Image Display
 
+> Written in the first semester of my fourth year, straight after the object-oriented
+> programming course. Java Swing has no equivalent of C#'s PictureBox: no standard
+> component handles image scaling and positioning with configurable display modes. So I
+> built one.
+>
+> I went on to reuse it in later projects whenever I needed image handling in a GUI, which
+> makes it the most practically useful thing I've written here.
+
 ## Overview
 
 Welcome to **JPictureSlot**, a custom Java Swing component designed to provide flexible and dynamic image display capabilities, similar to the PictureBox component in C#. This project aims to simplify image handling in Java Swing applications by allowing easy resizing and positioning of images within a JLabel-based component.
