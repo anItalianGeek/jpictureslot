@@ -7,6 +7,8 @@
 >
 > I went on to reuse it in later projects whenever I needed image handling in a GUI, which
 > makes it the most practically useful thing I've written here.
+>
+> Kept as a learning archive, without active development or maintenance.
 
 ## Overview
 
